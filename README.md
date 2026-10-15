@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OnlineShop - Real-World Ecommerce Platform
 
 A modern, professional ecommerce platform built with PHP, Bootstrap 5, and real-world UI/UX patterns.
@@ -120,3 +121,6 @@ onlineshop/
 - **Responsive Grid** layouts
 
 This ecommerce platform provides a complete, professional solution with modern UI/UX patterns that you'd expect from real-world applications like Shopify, Amazon, or other major ecommerce platforms.
+=======
+# onlineshop
+>>>>>>> 47a986226d9124fc15c8c4e335a39caebf8a2472
